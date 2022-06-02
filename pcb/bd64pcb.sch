@@ -1901,17 +1901,6 @@ F 3 "~" H 2025 3075 50  0001 C CNN
 	1    2025 3075
 	1    0    0    -1  
 $EndComp
-$Comp
-L Interface_Expansion:MCP23017_SO U2
-U 1 1 71ED41B4
-P 7300 3225
-F 0 "U2" H 7625 2250 50  0000 C CNN
-F 1 "MCP23017_SO" H 7625 2175 50  0000 C CNN
-F 2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" H 7500 2225 50  0001 L CNN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf" H 7500 2125 50  0001 L CNN
-	1    7300 3225
-	1    0    0    -1  
-$EndComp
 Text GLabel 6600 2525 0    50   Input ~ 0
 SCL
 Text GLabel 6600 2425 0    50   Input ~ 0
@@ -5617,4 +5606,18 @@ Wire Wire Line
 	17500 3225 17500 2600
 Connection ~ 17500 3225
 Connection ~ 17500 2600
+$Comp
+L Interface_Expansion:MCP23017_ML U2
+U 1 1 63AD17B8
+P 7300 3225
+F 0 "U2" H 7600 2225 50  0000 C CNN
+F 1 "MCP23017_ML" H 7625 2150 50  0000 C CNN
+F 2 "Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm" H 7500 2225 50  0001 L CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf" H 7500 2125 50  0001 L CNN
+	1    7300 3225
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 4325 7300 4325
+Connection ~ 7300 4325
 $EndSCHEMATC
