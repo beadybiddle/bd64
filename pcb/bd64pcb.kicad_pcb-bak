@@ -417,7 +417,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1.75U-NoLED (layer F.Cu) (tedit 5BD3C6A7) (tstamp 6298765F)
+  (module MX_Only:MXOnly-1.75U-NoLED (layer F.Cu) (tedit 5BD3C6A7) (tstamp 629AFF39)
     (at 265.1125 70.64375)
     (path /80C6C25D)
     (fp_text reference MX27 (at 0 3.175) (layer Dwgs.User)
@@ -3385,7 +3385,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629873B3)
-    (at 198.4375 133.35)
+    (at 269.875 114.3)
     (path /89885FA0)
     (fp_text reference L61 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3417,7 +3417,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 6298739E)
-    (at 172.24375 133.35)
+    (at 248.44375 114.3)
     (path /897C3327)
     (fp_text reference L60 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3449,7 +3449,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987389)
-    (at 148.43125 133.35)
+    (at 229.39375 114.3)
     (path /897C3317)
     (fp_text reference L59 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3481,7 +3481,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987374)
-    (at 129.38125 133.35)
+    (at 210.34375 114.3)
     (path /897191E6)
     (fp_text reference L58 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3513,7 +3513,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 6298735F)
-    (at 105.56875 133.35)
+    (at 191.29375 114.3)
     (path /897191D6)
     (fp_text reference L57 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3545,7 +3545,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 6298734A)
-    (at 76.99375 133.35)
+    (at 172.24375 114.3)
     (path /8969198B)
     (fp_text reference L56 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3577,7 +3577,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987335)
-    (at 50.8 133.35)
+    (at 153.19375 114.3)
     (path /8969197B)
     (fp_text reference L55 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3609,7 +3609,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987320)
-    (at 26.9875 133.35)
+    (at 134.14375 114.3)
     (path /896199FC)
     (fp_text reference L54 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3641,7 +3641,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 6298730B)
-    (at 269.875 114.3)
+    (at 115.09375 114.3)
     (path /896199EC)
     (fp_text reference L53 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3673,7 +3673,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629872F6)
-    (at 248.44375 114.3)
+    (at 96.04375 114.3)
     (path /891ED774)
     (fp_text reference L52 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3705,7 +3705,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629872E1)
-    (at 229.39375 114.3)
+    (at 76.99375 114.3)
     (path /891ED764)
     (fp_text reference L51 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3737,7 +3737,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629872CC)
-    (at 210.34375 114.3)
+    (at 57.94375 114.3)
     (path /89126D43)
     (fp_text reference L50 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3769,7 +3769,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629872B7)
-    (at 191.29375 114.3)
+    (at 31.75 114.3)
     (path /89126D33)
     (fp_text reference L49 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3801,7 +3801,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629872A2)
-    (at 172.24375 114.3)
+    (at -10.31875 116.68125)
     (path /8996225D)
     (fp_text reference L48 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3833,7 +3833,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 6298728D)
-    (at 153.19375 114.3)
+    (at -29.36875 116.68125)
     (path /8996224D)
     (fp_text reference L47 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3865,7 +3865,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987278)
-    (at 134.14375 114.3)
+    (at -48.41875 116.68125)
     (path /89885F90)
     (fp_text reference L46 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3897,7 +3897,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987263)
-    (at 115.09375 114.3)
+    (at 267.49375 95.25)
     (path /89885F80)
     (fp_text reference L45 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3929,7 +3929,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 6298724E)
-    (at 96.04375 114.3)
+    (at 243.68125 95.25)
     (path /897C3307)
     (fp_text reference L44 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3961,7 +3961,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987239)
-    (at 76.99375 114.3)
+    (at 224.63125 95.25)
     (path /897C32F7)
     (fp_text reference L43 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -3993,7 +3993,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987224)
-    (at 57.94375 114.3)
+    (at 205.58125 95.25)
     (path /897191C6)
     (fp_text reference L42 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4025,7 +4025,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 6298720F)
-    (at 31.75 114.3)
+    (at 186.53125 95.25)
     (path /897191B6)
     (fp_text reference L41 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4057,7 +4057,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629871FA)
-    (at 267.49375 95.25)
+    (at 167.48125 95.25)
     (path /8969196B)
     (fp_text reference L40 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4089,7 +4089,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629871E5)
-    (at 243.68125 95.25)
+    (at 148.43125 95.25)
     (path /8969195B)
     (fp_text reference L39 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4121,7 +4121,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629871D0)
-    (at 224.63125 95.25)
+    (at 129.38125 95.25)
     (path /896199DC)
     (fp_text reference L38 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4153,7 +4153,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629871BB)
-    (at 205.58125 95.25)
+    (at 110.33125 95.25)
     (path /896199CC)
     (fp_text reference L37 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4185,7 +4185,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629871A6)
-    (at 186.53125 95.25)
+    (at 91.28125 95.25)
     (path /891ED754)
     (fp_text reference L36 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4217,7 +4217,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987191)
-    (at 167.48125 95.25)
+    (at 72.23125 95.25)
     (path /891ED744)
     (fp_text reference L35 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4249,7 +4249,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 6298717C)
-    (at 148.43125 95.25)
+    (at 53.18125 95.25)
     (path /89126D23)
     (fp_text reference L34 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4281,7 +4281,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987167)
-    (at 129.38125 95.25)
+    (at 29.36875 95.25)
     (path /89126D13)
     (fp_text reference L33 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4313,7 +4313,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987152)
-    (at 110.33125 95.25)
+    (at -19.84375 100.80625)
     (path /89962235)
     (fp_text reference L32 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4345,7 +4345,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 6298713D)
-    (at 91.28125 95.25)
+    (at -38.89375 100.80625)
     (path /89962225)
     (fp_text reference L31 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4377,7 +4377,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987128)
-    (at 72.23125 95.25)
+    (at -57.94375 100.80625)
     (path /89885F68)
     (fp_text reference L30 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4409,7 +4409,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987113)
-    (at 53.18125 95.25)
+    (at 265.1125 76.2)
     (path /89885F58)
     (fp_text reference L29 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4441,7 +4441,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629870FE)
-    (at 29.36875 95.25)
+    (at 238.91875 76.2)
     (path /897C32DF)
     (fp_text reference L28 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4473,7 +4473,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629870E9)
-    (at 265.1125 76.2)
+    (at 219.86875 76.2)
     (path /897C32CF)
     (fp_text reference L27 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4505,7 +4505,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629870D4)
-    (at 238.91875 76.2)
+    (at 200.81875 76.2)
     (path /8971919E)
     (fp_text reference L26 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4537,7 +4537,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629870BF)
-    (at 219.86875 76.2)
+    (at 181.76875 76.2)
     (path /8971918E)
     (fp_text reference L25 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4569,7 +4569,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629870AA)
-    (at 200.81875 76.2)
+    (at 162.71875 76.2)
     (path /89691943)
     (fp_text reference L24 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4601,7 +4601,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987095)
-    (at 181.76875 76.2)
+    (at 143.66875 76.2)
     (path /89691933)
     (fp_text reference L23 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4633,7 +4633,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987080)
-    (at 162.71875 76.2)
+    (at 124.61875 76.2)
     (path /896199B4)
     (fp_text reference L22 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4665,7 +4665,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 6298706B)
-    (at 143.66875 76.2)
+    (at 105.56875 76.2)
     (path /896199A4)
     (fp_text reference L21 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4697,7 +4697,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987056)
-    (at 124.61875 76.2)
+    (at 86.51875 76.2)
     (path /891ED72C)
     (fp_text reference L20 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4729,7 +4729,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987041)
-    (at 105.56875 76.2)
+    (at 67.46875 76.2)
     (path /891ED71C)
     (fp_text reference L19 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4761,7 +4761,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 6298702C)
-    (at 86.51875 76.2)
+    (at 48.41875 76.2)
     (path /63E41D35)
     (fp_text reference L18 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4792,8 +4792,8 @@
       (net 92 CS2))
   )
 
-  (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987017)
-    (at 67.46875 76.2)
+  (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 629AF4C6)
+    (at 26.9875 76.2)
     (path /63E41D25)
     (fp_text reference L17 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4825,7 +4825,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62987002)
-    (at 48.41875 76.2)
+    (at -7.9375 88.10625)
     (path /89962215)
     (fp_text reference L16 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
@@ -4857,7 +4857,7 @@
   )
 
   (module QBLP677R-RGB:RGB-REVERSE_MOUNT (layer B.Cu) (tedit 619DEDDF) (tstamp 62986FED)
-    (at 26.9875 76.2)
+    (at -29.36875 88.10625)
     (path /89962205)
     (fp_text reference L15 (at 0.25 3.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify mirror))

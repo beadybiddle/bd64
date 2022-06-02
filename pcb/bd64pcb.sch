@@ -1475,15 +1475,15 @@ F 3 "" H 5275 6375 50  0001 L BNN
 	1    5275 6375
 	0    1    1    0   
 $EndComp
-Text GLabel 4850 4000 2    50   Input ~ 0
+Text GLabel 4900 4000 2    50   Input ~ 0
 row0
-Text GLabel 4850 4100 2    50   Input ~ 0
+Text GLabel 4900 4100 2    50   Input ~ 0
 row1
-Text GLabel 4850 4200 2    50   Input ~ 0
+Text GLabel 4900 4200 2    50   Input ~ 0
 row2
-Text GLabel 4850 4300 2    50   Input ~ 0
+Text GLabel 4900 4300 2    50   Input ~ 0
 row3
-Text GLabel 4850 4400 2    50   Input ~ 0
+Text GLabel 4900 4400 2    50   Input ~ 0
 row4
 Text GLabel 4525 6750 0    50   Input ~ 0
 SW3
@@ -1906,31 +1906,31 @@ SCL
 Text GLabel 6600 2425 0    50   Input ~ 0
 SDA
 NoConn ~ 6600 3125
-Text GLabel 8000 3325 2    50   Input ~ 0
+Text GLabel 8050 3325 2    50   Input ~ 0
 col0
-Text GLabel 8000 3425 2    50   Input ~ 0
+Text GLabel 8050 3425 2    50   Input ~ 0
 col1
-Text GLabel 8000 3525 2    50   Input ~ 0
+Text GLabel 8050 3525 2    50   Input ~ 0
 col2
-Text GLabel 8000 3625 2    50   Input ~ 0
+Text GLabel 8050 3625 2    50   Input ~ 0
 col3
-Text GLabel 8000 3725 2    50   Input ~ 0
+Text GLabel 8050 3725 2    50   Input ~ 0
 col4
-Text GLabel 8000 3825 2    50   Input ~ 0
+Text GLabel 8050 3825 2    50   Input ~ 0
 col5
-Text GLabel 8000 3925 2    50   Input ~ 0
+Text GLabel 8050 3925 2    50   Input ~ 0
 col6
-Text GLabel 8000 4025 2    50   Input ~ 0
+Text GLabel 8050 4025 2    50   Input ~ 0
 col7
-Text GLabel 8000 2825 2    50   Input ~ 0
+Text GLabel 8050 2825 2    50   Input ~ 0
 col8
-Text GLabel 8000 2725 2    50   Input ~ 0
+Text GLabel 8050 2725 2    50   Input ~ 0
 col9
-Text GLabel 8000 2625 2    50   Input ~ 0
+Text GLabel 8050 2625 2    50   Input ~ 0
 col10
-Text GLabel 8000 2525 2    50   Input ~ 0
+Text GLabel 8050 2525 2    50   Input ~ 0
 col11
-Text GLabel 8000 2425 2    50   Input ~ 0
+Text GLabel 8050 2425 2    50   Input ~ 0
 col12
 $Comp
 L power:+5V #PWR0116
@@ -5595,7 +5595,7 @@ U 1 1 62A34409
 P 9225 2025
 F 0 "MX1" H 9200 2225 60  0000 C CNN
 F 1 "MX-NoLED" H 9200 2150 20  0000 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8600 2000 60  0001 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 8600 2000 60  0001 C CNN
 F 3 "" H 8600 2000 60  0001 C CNN
 	1    9225 2025
 	1    0    0    -1  
