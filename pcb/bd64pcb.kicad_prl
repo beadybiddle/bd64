@@ -7,10 +7,10 @@
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "pads": 0.41999998688697815,
+      "pads": 0.3199999928474426,
       "tracks": 1.0,
-      "vias": 0.6399999856948853,
-      "zones": 0.3799999952316284
+      "vias": 0.49000000953674316,
+      "zones": 0.30000001192092896
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
