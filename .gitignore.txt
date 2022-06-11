@@ -23,4 +23,4 @@ fp-info-cache
 *.csv
 
 # Holistic Backups
-*-backups
+*-backups*
