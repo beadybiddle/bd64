@@ -1,0 +1,51 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 80px;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="stroke_circles" data-name="stroke circles">
+    <path id="b_circ" data-name="b circ" class="cls-1" d="M285,430A145,145,0,1,1,140,575,145,145,0,0,1,285,430Zm0,0A145,145,0,1,1,140,575,145,145,0,0,1,285,430Z"/>
+    <path id="d_circ" data-name="d circ" class="cls-1" d="M675,430A145,145,0,1,1,530,575,145,145,0,0,1,675,430Zm0,0A145,145,0,1,1,530,575,145,145,0,0,1,675,430Z"/>
+  </g>
+  <path id="overline" class="cls-2" d="M200,220V180H900v40H200Z"/>
+  <path id="arrow" class="cls-2" d="M820,340H780l40-120h40l40,120H860V660h40L860,780H820L780,660h40V340Z"/>
+  <path id="b_bar" data-name="b bar" class="cls-2" d="M100,180h80V760H100V180Z"/>
+  <path id="underline" class="cls-2" d="M100,820V780H900v40H100Z"/>
+</svg>

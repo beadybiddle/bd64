@@ -1,5 +1,6 @@
 (sym_lib_table
-  (lib (name random-keyboard-parts)(type Legacy)(uri "H:/repos/bd64/res/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
-  (lib (name QBLP677R-RGB)(type Legacy)(uri H:/repos/bd64/res/QBLP677R-RGB/QBLP677R-RGB.lib)(options "")(descr ""))
-  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "H:/repos/bd64/res/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "H:/repos/bd64/res/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "QBLP677R-RGB")(type "Legacy")(uri "H:/repos/bd64/res/QBLP677R-RGB/QBLP677R-RGB.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "H:/repos/bd64/res/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "bd64pcb-rescue")(type "Legacy")(uri "${KIPRJMOD}/bd64pcb-rescue.lib")(options "")(descr ""))
 )
