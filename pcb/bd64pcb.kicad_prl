@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -9,8 +9,8 @@
     "opacity": {
       "pads": 0.3199999928474426,
       "tracks": 1.0,
-      "vias": 0.49000000953674316,
-      "zones": 0.3400000035762787
+      "vias": 0.699999988079071,
+      "zones": 0.3199999928474426
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
