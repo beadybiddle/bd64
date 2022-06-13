@@ -7896,7 +7896,7 @@
   (symbol (lib_id "Driver_LED:IS31FL3733-QF") (at 66.675 213.995 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000062c2eea5)
-    (property "Reference" "U3" (id 0) (at 73.025 257.175 0))
+    (property "Reference" "U2" (id 0) (at 73.025 257.175 0))
     (property "Value" "IS31FL3733-QF" (id 1) (at 73.025 259.08 0))
     (property "Footprint" "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm" (id 2) (at 66.675 213.995 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -12824,7 +12824,7 @@
       (reference "U1") (unit 1) (value "ATmega32U4-MU") (footprint "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm")
     )
     (path "/00000000-0000-0000-0000-000062c2eea5"
-      (reference "U3") (unit 1) (value "IS31FL3733-QF") (footprint "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm")
+      (reference "U2") (unit 1) (value "IS31FL3733-QF") (footprint "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm")
     )
     (path "/00000000-0000-0000-0000-00006298f3ae"
       (reference "Y1") (unit 1) (value "16MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
