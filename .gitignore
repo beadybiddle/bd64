@@ -24,3 +24,6 @@ fp-info-cache
 
 # Holistic Backups
 *-backups*
+
+# Photoshop files
+*.psd
