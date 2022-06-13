@@ -405,7 +405,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../3d/bd64pcb.step",
+      "step": "../3d/bd64pcb_populated.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
