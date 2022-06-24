@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "cap_pads")(type "KiCad")(uri "H:/repos/bd64/res/cap_pads.pretty")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "H:/repos/bd64/res/BD.pretty")(options "")(descr ""))
+)
