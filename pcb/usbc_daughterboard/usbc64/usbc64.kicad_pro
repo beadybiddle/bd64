@@ -380,6 +380,7 @@
         "name": "Power",
         "nets": [
           "GND",
+          "GNDPWR",
           "VBUS"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
