@@ -1247,6 +1247,7 @@
 
   (no_connect (at 64.135 73.025) (uuid 84499221-1329-4075-8433-c61fc5b12fc2))
   (no_connect (at 64.135 70.485) (uuid 84499221-1329-4075-8433-c61fc5b12fc3))
+  (no_connect (at 159.385 53.975) (uuid a6b4a222-29cc-4c00-985a-8a7e6280fb18))
 
   (wire (pts (xy 109.22 62.865) (xy 110.49 62.865))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -1351,10 +1352,6 @@
   (wire (pts (xy 106.68 62.865) (xy 109.22 62.865))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 8b266770-74de-4903-aa5c-d931dab0f0c5)
-  )
-  (wire (pts (xy 159.385 53.975) (xy 159.385 55.245))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 8cd9a381-5b27-4ee5-86c3-ee2cda85913e)
   )
   (wire (pts (xy 122.555 70.485) (xy 122.555 71.755))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -1623,7 +1620,7 @@
   (symbol (lib_id "power:GNDPWR") (at 122.555 71.755 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1d8f7fdb-8389-43b1-b989-77c6a75c91ea)
-    (property "Reference" "#PWR?" (id 0) (at 122.555 76.835 0)
+    (property "Reference" "#PWR0111" (id 0) (at 122.555 76.835 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDPWR" (id 1) (at 122.555 74.295 0)
@@ -1813,22 +1810,6 @@
     (pin "9" (uuid fd258276-c05b-4d88-81c5-6a146b8b9008))
   )
 
-  (symbol (lib_id "power:GND") (at 159.385 55.245 0) (unit 1)
-    (in_bom yes) (on_board yes)
-    (uuid accaf20d-fb48-4bd4-a872-2657970dcb88)
-    (property "Reference" "#PWR0103" (id 0) (at 159.385 61.595 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (id 1) (at 159.385 59.055 0))
-    (property "Footprint" "" (id 2) (at 159.385 55.245 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 159.385 55.245 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 9c058f2d-1f48-4beb-a735-4ae252a05ced))
-  )
-
   (symbol (lib_id "Device:R_Small") (at 67.945 50.165 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b65bd4ea-0413-46b5-9e69-2c80dbc4b53c)
@@ -2011,9 +1992,6 @@
     (path "/83dd5fc1-a405-49ff-9aa7-0330ca3798fa"
       (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
     )
-    (path "/accaf20d-fb48-4bd4-a872-2657970dcb88"
-      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
-    )
     (path "/dd395997-e60e-49d7-89eb-a27b2fa000eb"
       (reference "#PWR0104") (unit 1) (value "+5V") (footprint "")
     )
@@ -2035,6 +2013,9 @@
     (path "/c37f147b-7cbe-4be6-95c3-5fda7fefb251"
       (reference "#PWR0110") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/1d8f7fdb-8389-43b1-b989-77c6a75c91ea"
+      (reference "#PWR0111") (unit 1) (value "GNDPWR") (footprint "")
+    )
     (path "/0f5deb86-fcab-492d-905f-d8e47136ee96"
       (reference "#PWR0112") (unit 1) (value "GNDPWR") (footprint "")
     )
@@ -2043,9 +2024,6 @@
     )
     (path "/a62db0bf-d79b-4255-b4f3-86b0890815cf"
       (reference "#PWR0114") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1d8f7fdb-8389-43b1-b989-77c6a75c91ea"
-      (reference "#PWR?") (unit 1) (value "GNDPWR") (footprint "")
     )
     (path "/062791e6-12f0-44fc-90f6-45f64ecdec87"
       (reference "F1") (unit 1) (value "500mA") (footprint "")
