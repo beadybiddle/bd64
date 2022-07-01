@@ -1556,7 +1556,7 @@
     (uuid 062791e6-12f0-44fc-90f6-45f64ecdec87)
     (property "Reference" "F1" (id 0) (at 85.725 40.64 90))
     (property "Value" "500mA" (id 1) (at 85.725 44.45 90))
-    (property "Footprint" "" (id 2) (at 90.805 41.275 0)
+    (property "Footprint" "Fuse:Fuse_1206_3216Metric" (id 2) (at 90.805 41.275 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "~" (id 3) (at 85.725 42.545 0)
@@ -2026,7 +2026,7 @@
       (reference "#PWR0114") (unit 1) (value "GNDPWR") (footprint "")
     )
     (path "/062791e6-12f0-44fc-90f6-45f64ecdec87"
-      (reference "F1") (unit 1) (value "500mA") (footprint "")
+      (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_1206_3216Metric")
     )
     (path "/22294464-5c73-43d3-ae56-8a26bed6f964"
       (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
