@@ -2,4 +2,5 @@
   (lib (name "Schematic Library")(type "KiCad")(uri "H:/repos/bd64/res/random-keyboard-parts.pretty/Schematic Library")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "H:/repos/bd64/res/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "ESDALD05UG4")(type "KiCad")(uri "H:/repos/bd64/res/ESDALD05UG4.pretty")(options "")(descr ""))
+  (lib (name "BD")(type "KiCad")(uri "H:/repos/bd64/res/BD.pretty")(options "")(descr ""))
 )
