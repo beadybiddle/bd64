@@ -222,10 +222,10 @@
       (net 10 "GNDPWR") (pinfunction "MP") (pintype "power_in") (tstamp de33626f-b7e2-4d3e-9a81-eccce22246ee))
     (pad "MP" smd roundrect (at -2.8 1.8) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333)
       (net 10 "GNDPWR") (pinfunction "MP") (pintype "power_in") (tstamp f110acc3-2aec-413f-8a86-daa6bf69af54))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+    (model "${REPO_3DMODEL_DIR}/SM04B-SRSS-TB.STEP"
+      (offset (xyz 0 1.4 -0.3))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
