@@ -1100,6 +1100,12 @@
   (gr_arc (start 98 63) (mid 96.585786 62.414214) (end 96 61) (layer "Edge.Cuts") (width 0.15) (tstamp c1034677-2bd2-418c-94a0-c88258a4f606))
   (gr_arc (start 96 48.5) (mid 96.585786 47.085786) (end 98 46.5) (layer "Edge.Cuts") (width 0.15) (tstamp d1b6cc14-ad62-4013-b501-f78e3b08d834))
   (gr_arc (start 112 46.5) (mid 113.414214 47.085786) (end 114 48.5) (layer "Edge.Cuts") (width 0.15) (tstamp fdbbee1c-b73e-4e0d-9ab2-01b2f1aab006))
+  (gr_text "biddle" (at 101.6 51.2) (layer "B.SilkS") (tstamp 0c29a4c0-e339-4d67-a051-079c3c8c036a)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  )
+  (gr_text "beady" (at 108.3 51.2) (layer "B.Mask") (tstamp d3dc88ba-05db-4bea-9d3e-b35ed2a65f91)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  )
 
   (segment (start 106.5 58.05) (end 106.85 58.4) (width 0.381) (layer "F.Cu") (net 1) (tstamp 570e8898-0813-4fe3-b18e-71bda84be94b))
   (segment (start 109.325 58.4) (end 109.65 58.075) (width 0.381) (layer "F.Cu") (net 1) (tstamp a9f8bfa6-2d5e-4557-a41e-345bbddc2d32))
@@ -3014,6 +3020,12 @@
         (xy 98.442478 46.7005)
         (xy 111.963146 46.7005)
       )
+    )
+  )
+  (group "" (id d016fe52-e7ae-47b4-8acb-fde62aa020cd)
+    (members
+      0c29a4c0-e339-4d67-a051-079c3c8c036a
+      d3dc88ba-05db-4bea-9d3e-b35ed2a65f91
     )
   )
 )
