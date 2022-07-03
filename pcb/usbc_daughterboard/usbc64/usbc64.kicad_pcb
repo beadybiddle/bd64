@@ -177,6 +177,11 @@
       (net 6 "d-") (pinfunction "NC") (pintype "passive") (tstamp cdd2d982-b8d5-433d-b3e5-efcdf43083f0))
     (pad "10" smd rect (at 0.375 -1 90) (size 0.6 0.25) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 5 "d+") (pinfunction "NC") (pintype "passive") (tstamp bdd53a29-9101-41c5-a231-8bf31b891dd6))
+    (model "${REPO_3DMODEL_DIR}/ESDALD05UG4.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" (layer "F.Cu")
