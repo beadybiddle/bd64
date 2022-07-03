@@ -1883,7 +1883,7 @@
     (property "Reference" "D1" (id 0) (at 92.202 46.7903 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "D_TVS" (id 1) (at 92.202 49.3272 90)
+    (property "Value" "SMF8.5CA" (id 1) (at 92.202 49.3272 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Diode_SMD:D_SOD-123F" (id 2) (at 90.17 47.625 0)
@@ -2338,7 +2338,7 @@
       (reference "#PWR0117") (unit 1) (value "GNDPWR") (footprint "")
     )
     (path "/3845cbee-ea08-46cd-82cd-c172d1323e6f"
-      (reference "D1") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_SOD-123F")
+      (reference "D1") (unit 1) (value "SMF8.5CA") (footprint "Diode_SMD:D_SOD-123F")
     )
     (path "/a5b90ab3-9bac-4f37-9040-8745d8bc6f32"
       (reference "D2") (unit 1) (value "PWR") (footprint "LED_SMD:LED_0603_1608Metric")
