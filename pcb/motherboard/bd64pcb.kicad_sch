@@ -11790,7 +11790,7 @@
     (property "Value" "Conn_01x04" (id 1) (at 54.737 45.5172 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_SUR_SM04B-SURS-TF_1x04-1MP_P0.80mm_Horizontal" (id 2) (at 52.705 42.545 0)
+    (property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" (id 2) (at 52.705 42.545 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.705 42.545 0)
@@ -12292,7 +12292,7 @@
       (reference "D64") (unit 1) (value "SOD123") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/249794d8-9f77-48d5-82c2-e90268fabe6e"
-      (reference "J1") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_SUR_SM04B-SURS-TF_1x04-1MP_P0.80mm_Horizontal")
+      (reference "J1") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
     )
     (path "/bfedb103-5d71-44da-9b77-ab5c7fa95163"
       (reference "J2") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_SUR_SM04B-SURS-TF_1x04-1MP_P0.80mm_Horizontal")
