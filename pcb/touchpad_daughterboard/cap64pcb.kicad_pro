@@ -404,7 +404,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "cap64pcb.step",
+      "step": "../../3d/cap64.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
