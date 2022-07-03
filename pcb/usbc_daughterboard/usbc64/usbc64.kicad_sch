@@ -1920,7 +1920,7 @@
     (property "Reference" "R3" (id 0) (at 83.82 57.15 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "630" (id 1) (at 83.82 59.055 0)
+    (property "Value" "630Ω" (id 1) (at 83.82 59.055 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 82.55 57.785 0)
@@ -2374,7 +2374,7 @@
       (reference "R2") (unit 1) (value "5.1kΩ") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/4af9b030-0adb-4a95-8fdf-1aa55ca1db80"
-      (reference "R3") (unit 1) (value "630") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R3") (unit 1) (value "630Ω") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/a6f9bf39-ab6c-4e85-8e29-1b6c85263359"
       (reference "U1") (unit 1) (value "ESDALD05UG4") (footprint "ESDALD05UG4:ESDALD05UG4")
