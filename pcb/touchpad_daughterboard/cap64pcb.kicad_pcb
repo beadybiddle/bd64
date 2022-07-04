@@ -1894,7 +1894,7 @@
   (gr_text "scl" (at 107.2 46.6 90) (layer "B.SilkS") (tstamp 87bb2047-4d7e-4299-ae60-2070d355883d)
     (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
   )
-  (gr_text "SM04B-\nSURS-TF" (at 121.6 43.4) (layer "B.SilkS") (tstamp ad47269f-f398-4c4b-a85e-34d1f91e4f6a)
+  (gr_text "JST-\nSURS" (at 118.26875 43.4) (layer "B.SilkS") (tstamp ad47269f-f398-4c4b-a85e-34d1f91e4f6a)
     (effects (font (size 1.2 1.2) (thickness 0.3)) (justify left mirror))
   )
   (gr_text "64" (at 54.6 43.7) (layer "B.SilkS") (tstamp ea0010ea-9bdc-4bdb-b60d-e35099ae79fc)
