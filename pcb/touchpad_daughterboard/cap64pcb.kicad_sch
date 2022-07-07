@@ -1339,7 +1339,7 @@
     (property "Reference" "H1" (id 0) (at 38.735 74.0953 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole" (id 1) (at 38.735 76.6322 0)
+    (property "Value" "MagnetHole" (id 1) (at 38.735 76.6322 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "MountingHole:MountingHole_4mm" (id 2) (at 36.195 74.93 0)
@@ -1649,7 +1649,7 @@
     (property "Reference" "H2" (id 0) (at 38.735 79.8103 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole" (id 1) (at 38.735 82.3472 0)
+    (property "Value" "MagnetHole" (id 1) (at 38.735 82.3472 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "MountingHole:MountingHole_4mm" (id 2) (at 36.195 80.645 0)
@@ -2268,10 +2268,10 @@
       (reference "D1") (unit 1) (value "INT") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/293cdb1d-0389-4c2a-9ac9-1ee2cfc7ddb6"
-      (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4mm")
+      (reference "H1") (unit 1) (value "MagnetHole") (footprint "MountingHole:MountingHole_4mm")
     )
     (path "/6977b971-73fc-4aa6-af9f-63436b840f3d"
-      (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4mm")
+      (reference "H2") (unit 1) (value "MagnetHole") (footprint "MountingHole:MountingHole_4mm")
     )
     (path "/19d8f5e6-7917-4311-ae54-a6b4c084a96c"
       (reference "J1") (unit 1) (value "SM04B_SURS_TF") (footprint "Connector_JST:JST_SUR_SM04B-SURS-TF_1x04-1MP_P0.80mm_Horizontal")
