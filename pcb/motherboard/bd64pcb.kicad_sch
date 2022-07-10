@@ -12050,7 +12050,7 @@
     (property "Value" "SM05B-SURS-TF" (id 1) (at 50.8 97.79 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_SUR_SM04B-SURS-TF_1x04-1MP_P0.80mm_Horizontal" (id 2) (at 55.245 105.41 0)
+    (property "Footprint" "Connector_JST:JST_SUR_SM05B-SURS-TF_1x05-1MP_P0.80mm_Horizontal" (id 2) (at 55.245 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 55.245 105.41 0)
@@ -12073,7 +12073,7 @@
     (property "Value" "SM05B-SURS-TF" (id 1) (at 50.165 66.675 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_SUR_SM04B-SURS-TF_1x04-1MP_P0.80mm_Horizontal" (id 2) (at 54.61 74.295 0)
+    (property "Footprint" "Connector_JST:JST_SUR_SM05B-SURS-TF_1x05-1MP_P0.80mm_Horizontal" (id 2) (at 54.61 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 54.61 74.295 0)
@@ -12471,10 +12471,10 @@
       (reference "J1") (unit 1) (value "SM04B-SRSS-TB") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
     )
     (path "/bfedb103-5d71-44da-9b77-ab5c7fa95163"
-      (reference "J2") (unit 1) (value "SM05B-SURS-TF") (footprint "Connector_JST:JST_SUR_SM04B-SURS-TF_1x04-1MP_P0.80mm_Horizontal")
+      (reference "J2") (unit 1) (value "SM05B-SURS-TF") (footprint "Connector_JST:JST_SUR_SM05B-SURS-TF_1x05-1MP_P0.80mm_Horizontal")
     )
     (path "/986a64bc-99d8-42ad-8dae-e7121e943202"
-      (reference "J3") (unit 1) (value "SM05B-SURS-TF") (footprint "Connector_JST:JST_SUR_SM04B-SURS-TF_1x04-1MP_P0.80mm_Horizontal")
+      (reference "J3") (unit 1) (value "SM05B-SURS-TF") (footprint "Connector_JST:JST_SUR_SM05B-SURS-TF_1x05-1MP_P0.80mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-0000635db64f"
       (reference "L1") (unit 1) (value "QBLP677R-RGB") (footprint "QBLP677R-RGB:RGB-REVERSE_MOUNT")
