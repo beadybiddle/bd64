@@ -1869,7 +1869,7 @@
     (property "Value" "-" (id 1) (at 159.639 77.2672 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (id 2) (at 154.94 80.645 0)
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (id 2) (at 154.94 80.645 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 154.94 80.645 0)
@@ -2149,7 +2149,7 @@
     (property "Value" "+" (id 1) (at 159.639 73.4572 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (id 2) (at 154.94 76.835 0)
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (id 2) (at 154.94 76.835 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 154.94 76.835 0)
@@ -2478,10 +2478,10 @@
       (reference "TP14") (unit 1) (value "d") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/eaca30a7-2643-4e7e-a256-0b34720af638"
-      (reference "TP15") (unit 1) (value "+") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+      (reference "TP15") (unit 1) (value "+") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
     (path "/94ba82fd-b8f6-446f-bba5-bba684667285"
-      (reference "TP16") (unit 1) (value "-") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+      (reference "TP16") (unit 1) (value "-") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
     (path "/c8c3ab22-4b33-4bf7-93a7-fa49e1af3364"
       (reference "U1") (unit 1) (value "MPR121QR2") (footprint "Package_DFN_QFN:UQFN-20_3x3mm_P0.4mm")
