@@ -55,10 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "hole_near_hole|144621250|125253750|a62eb222-7505-497d-9e5e-7d3ce7fac5d5|2656fe3b-9fa4-4ab2-b993-97ae8ec632d2",
-        "hole_near_hole|73183750|125253750|f8babdf3-2ad9-438c-b12d-6e37efe45cce|3e7dbd37-8305-465b-841a-ce32cf131b6c"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
