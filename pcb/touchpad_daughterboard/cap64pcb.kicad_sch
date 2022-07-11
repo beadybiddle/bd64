@@ -1746,7 +1746,7 @@
     (property "Value" "d" (id 1) (at 75.7678 49.784 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm" (id 2) (at 72.39 45.085 0)
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (id 2) (at 72.39 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 72.39 45.085 0)
@@ -2334,7 +2334,7 @@
     (property "Value" "b" (id 1) (at 77.47 50.8 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm" (id 2) (at 77.47 45.085 0)
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (id 2) (at 77.47 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 77.47 45.085 0)
@@ -2502,10 +2502,10 @@
       (reference "TP12") (unit 1) (value "TestPoint_Alt") (footprint "cap_pads:CAPPADS_7.6x11.6_Chevron_3")
     )
     (path "/fd00f671-a567-4561-b2a9-081b479a0835"
-      (reference "TP13") (unit 1) (value "b") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
+      (reference "TP13") (unit 1) (value "b") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/681b5193-51cf-4708-8ba4-9c277717a057"
-      (reference "TP14") (unit 1) (value "d") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
+      (reference "TP14") (unit 1) (value "d") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/c8c3ab22-4b33-4bf7-93a7-fa49e1af3364"
       (reference "U1") (unit 1) (value "MPR121QR2") (footprint "Package_DFN_QFN:UQFN-20_3x3mm_P0.4mm")
