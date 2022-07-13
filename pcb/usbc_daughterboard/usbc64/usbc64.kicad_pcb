@@ -428,7 +428,7 @@
     (property "Sheetname" "")
     (path "/f597188e-ece8-4dde-a990-5b3388b8413b")
     (attr smd)
-    (fp_text reference "J1" (at 2.3 2.45) (layer "F.SilkS")
+    (fp_text reference "J1" (at 0 1.15) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.2)))
       (tstamp 1c71b58e-498d-4095-8166-c7d9b62f3d55)
     )
@@ -1105,9 +1105,6 @@
   )
   (gr_text "beady" (at 108.3 51.2) (layer "B.SilkS") (tstamp d3dc88ba-05db-4bea-9d3e-b35ed2a65f91)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
-  )
-  (gr_text "JLCJLCJLCJLC" (at 105 49.5 30) (layer "F.SilkS") (tstamp 8ebb8c89-0d96-4f47-98ac-fe8c9c82c0df)
-    (effects (font (size 0.85 0.85) (thickness 0.2)))
   )
 
   (segment (start 106.5 58.05) (end 106.85 58.4) (width 0.381) (layer "F.Cu") (net 1) (tstamp 570e8898-0813-4fe3-b18e-71bda84be94b))
