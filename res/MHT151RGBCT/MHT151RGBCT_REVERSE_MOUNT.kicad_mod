@@ -23,9 +23,4 @@
   (pad "3" smd rect (at 1.7 0.8) (size 1 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b5103405-44ab-4720-9716-b4c3dc7d8b1b))
   (pad "4" smd rect (at 1.7 -0.8) (size 1 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d5ca7ecb-d3c6-4d2a-bc8e-9df924a3cc2d))
   (pad "COMMON_ANODE" smd rect (at -1.7 -0.8) (size 1 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f789fbcc-4b5c-4d76-b402-dee033c5a0d4))
-  (model "${REPO_3DMODEL_DIR}/SK6812MINI-E.step"
-    (offset (xyz 0 5.08 -1.75))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 180 0))
-  )
 )
