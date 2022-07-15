@@ -4,4 +4,5 @@
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "H:/repos/bd64/res/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "QBLP677R-RGB")(type "KiCad")(uri "H:/repos/bd64/res/QBLP677R-RGB")(options "")(descr ""))
   (lib (name "BD")(type "KiCad")(uri "H:/repos/bd64/res/BD.pretty")(options "")(descr ""))
+  (lib (name "MHT151RGBCT")(type "KiCad")(uri "H:/repos/bd64/res/MHT151RGBCT")(options "")(descr ""))
 )
