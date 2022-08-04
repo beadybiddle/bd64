@@ -33,7 +33,7 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.3,
+          "drill": 0.0,
           "height": 0.8,
           "width": 0.8
         },
@@ -56,7 +56,8 @@
         }
       ],
       "drc_exclusions": [
-        "hole_clearance|38600000|45000000|442ec7ff-1bb5-42a1-a9db-6d0b3adbf7a2|b098fa2d-6862-463f-b7a6-2fe3f90151a6"
+        "hole_clearance|119800000|45000000|18a08837-b728-4104-9c2f-b8389b02fa73|9456fa7f-7604-482e-bef9-1a512037aebc",
+        "hole_clearance|40200000|45000000|fd31d1d3-5db4-4a89-afe1-57edd40bd175|b098fa2d-6862-463f-b7a6-2fe3f90151a6"
       ],
       "meta": {
         "version": 2
